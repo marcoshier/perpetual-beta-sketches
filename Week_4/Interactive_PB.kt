@@ -1,3 +1,4 @@
+// If no-body can be the studio, every-body can be the studio
 
 import org.openrndr.Program
 import org.openrndr.application
